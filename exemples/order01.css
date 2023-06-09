@@ -1,0 +1,32 @@
+.triangle{
+    transform: translate(450px, 50px) rotate(45deg);
+    transition: all 2s;
+    animation-name: slide;
+}
+.triangle2{
+    transform: translate(100px,400px) rotate(270deg);
+    transition: all 2s;
+}
+.triangle3{
+    transform: translate(200px, 200px) rotate(90deg);
+    transition: all 2s;
+}
+
+.triangle4{
+    transform: translate(350px, 250px) rotate(180deg);
+    transition: all 2s;
+
+}
+.triangle5{
+    transform: translate(0px, 175px) rotate(0deg);
+    transition: all 2s;
+
+}
+.carre{
+    transform: translate(10px, 40px) rotate(90deg);
+    transition: all 2s;
+}
+.parallelogram{
+    transform: translate(250px, 75px) rotate(295deg) skew(25deg, 20deg);
+    transition: all 2s;
+}

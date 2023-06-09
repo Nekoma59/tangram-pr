@@ -1,0 +1,32 @@
+/*SERPANT*/
+.triangle{
+    transform: translate(83px, 50px) rotate(135deg);
+    transition: all 2s;
+}
+.triangle2{
+    transform: translate(90px,98px) rotate(90deg);
+    transition: all 2s;
+}
+.triangle3{
+    transform: translate(165px, 170px) rotate(180deg);
+    transition: all 2s;
+}
+
+.triangle4{
+    transform: translate(320px, 275px) rotate(315deg);
+    transition: all 2s;
+
+}
+.triangle5{
+    transform: translate(150px, 255px) rotate(135deg);
+    transition: all 2s;
+
+}
+.carre{
+    transform: translate(137px, 140px) rotate(135deg);
+    transition: all 2s;
+}
+.parallelogram{
+    transform: translate(350px, 450px) rotate(0deg) skew(45deg);
+    transition: all 2s;
+}

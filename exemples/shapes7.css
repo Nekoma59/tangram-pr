@@ -1,0 +1,33 @@
+/*LION*/
+.triangle{
+    transform: translate(270px,288px) rotate(-90deg);
+    transition: all 2s;
+
+}
+.triangle2{
+    transform: translate(131px,256px) rotate(225deg);
+    transition: all 2s;
+}
+.triangle3{
+    transform:translate(158px, 190px) rotate(135deg);
+    transition: all 2s;
+}
+
+.triangle4{
+    transform:translate(75px, 79px) rotate(-45deg);
+    transition: all 2s;
+
+}
+.triangle5{
+    transform:translate(270px, 156px) rotate(-45deg);
+    transition: all 2s;
+
+}
+.carre{
+    transform:translate(30px, 200px) rotate(45deg);
+    transition: all 2s;
+}
+.parallelogram{
+    transform:translate(394px, 230px) rotate(-110deg) skew(-45deg);
+    transition: all 2s;
+}

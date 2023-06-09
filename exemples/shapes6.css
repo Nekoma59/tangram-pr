@@ -1,0 +1,33 @@
+/*CHEVAL*/
+.triangle{
+    transform:translate(192px, 401px) rotate(45deg);
+    transition: all 2s;
+
+}
+.triangle2{
+    transform: translate(59px,201px) rotate(270deg);
+    transition: all 2s;
+}
+.triangle3{
+    transform:translate(130px, 40px) rotate(270deg);
+    transition: all 2s;
+}
+
+.triangle4{
+    transform:translate(148px, 161px) rotate(315deg);
+    transition: all 2s;
+
+}
+.triangle5{
+    transform:translate(240px, 225px) rotate(0deg);
+    transition: all 2s;
+
+}
+.carre{
+    transform:translate(164px, 150px) rotate(90deg);
+    transition: all 2s;
+}
+.parallelogram{
+    transform:translate(325px, 365px) rotate(112deg) skew(-45deg);
+    transition: all 2s;
+}

@@ -1,0 +1,31 @@
+.triangle{
+    transform: translate(118px, 122px) rotate(45deg);
+    transition: all 2s
+}
+.triangle2{
+    transform: translate(241px,284px) rotate(270deg);
+    transition: all 2s;
+}
+.triangle3{
+    transform: translate(150px, 207px) rotate(135deg);
+    transition: all 2s;
+}
+
+.triangle4{
+    transform: translate(290px, 200px) rotate(135deg);
+    transition: all 2s;
+
+}
+.triangle5{
+    transform: translate(215px, 130px) rotate(315deg);
+    transition: all 2s;
+
+}
+.carre{
+    transform: translate(165px, 120px) rotate(90deg);
+    transition: all 2s;
+}
+.parallelogram{
+    transform: translate(160px, 284px) rotate(295deg) skew(25deg, 20deg);
+    transition: all 2s;
+}

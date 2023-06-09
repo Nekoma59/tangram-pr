@@ -1,0 +1,106 @@
+body{
+    background-color: silver ;
+}
+.container {
+    width: 600px;
+    height: 600px;
+    background-color: #333;
+    float: left;
+}
+.tangram{
+    padding: 20px 30px;
+    position: relative;
+}
+.buttons{
+    float: left;
+	width: 140px;
+}
+button{
+    background-color: #333333;
+	border: none;
+    border-radius: 0px 50px 50px 0px;
+	color: #fff;
+	font-size: 15px;
+	padding: 10px 15px;
+	width: 140px;
+	text-align: left;
+	margin-bottom: 4px;
+	cursor: pointer;
+}
+button:hover{
+    font-size: 20px;
+    font-weight: bold;
+}
+h1{
+    background-color: #333333;
+    color: #fff;
+    width: 300px;
+    height: 50px;
+    text-align: center;
+    margin: 0px 150px;
+    border-radius: 10px 10px 0px 0px;
+}
+
+/* FORMES GEOMETRIQUE */
+
+.triangle{
+    width: 0;
+	height: 0;
+	position: absolute;
+    border-left: 50px solid #d2696a;
+	border-top: 50px solid transparent;
+	border-bottom: 50px solid transparent;
+    
+
+}
+.triangle2{
+    width: 0;
+	height: 0;
+	position: absolute;
+    border-left: 50px solid #7e2b7c;
+    border-top: 50px solid transparent;
+    border-bottom: 50px solid transparent;
+    
+}
+.triangle3{
+    width: 0;
+	height: 0;
+	position: absolute;
+    border-left: 70px solid #189184;
+    border-top: 70px solid transparent;
+    border-bottom: 70px solid transparent;
+    
+}
+
+.triangle4{
+    width: 0;
+	height: 0;
+	position: absolute;
+    border-left: 100px solid #FBC002;
+    border-top: 100px solid transparent;
+    border-bottom: 100px solid transparent;
+
+
+}
+.triangle5{
+    width: 0;
+	height: 0;
+	position: absolute;
+    border-left: 100px solid #b20000;
+    border-top: 100px solid transparent;
+    border-bottom: 100px solid transparent;
+
+}
+.carre{
+    position: absolute;
+    background-color: #F48400;
+    width: 70px;
+    height: 70px;
+    
+}
+.parallelogram{
+    position: absolute;
+    background-color: #81b442;
+    width: 60px; 
+    height: 90px;
+}

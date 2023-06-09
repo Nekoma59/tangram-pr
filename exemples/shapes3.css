@@ -1,0 +1,32 @@
+/*KANGOUROU*/
+.triangle{
+    transform: translate(310px, 50px) rotate(135deg);
+    transition: all 2s
+}
+.triangle2{
+    transform: translate(320px, 225px) rotate(0deg);
+    transition: all 2s;
+}
+.triangle3{
+    transform: translate(165px, 350px) rotate(270deg);
+    transition: all 2s;
+}
+
+.triangle4{
+    transform: translate(160px, 200px) rotate(225deg);
+    transition: all 2s;
+
+}
+.triangle5{
+    transform: translate(231px, 125px) rotate(45deg);
+    transition: all 2s;
+
+}
+.carre{
+    transform: translate(217px, 348px) rotate(135deg);
+    transition: all 2s;
+}
+.parallelogram{
+    transform: translate(53px, 389px) rotate(315deg) skew(45deg);
+    transition: all 2s;
+}
